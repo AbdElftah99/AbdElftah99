@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbdElftah99
-- 👀 I’m interested in BIM Development and DATA Analysis
-- 🌱 I’m currently learning Python, SQL,Power BI 
+- 👋 Hi, I’m AbdElftah Tarek
+- 👀 I’m interested in BIM Software Development and DATA Analysis
+- 🌱 I’m currently learning Python For Data Analysis 
 - 📫 How to reach me:
 - email: abdelftahsalah748@gmail.com
 - Linked IN: https://www.linkedin.com/in/abdelftah-tarek-484100194
