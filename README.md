@@ -33,8 +33,8 @@ I’m AbdElftah Tarek <img src="https://github.com/TheDudeThatCode/TheDudeThatCo
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 <br/>
 ![AutoCAD API](https://img.shields.io/badge/AutoCAD%20API-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
+![Civil 3D API](https://img.shields.io/badge/Civil3D%20API-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Revit API](https://img.shields.io/badge/Revit%20API-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
-![SAP2000 API](https://img.shields.io/badge/SAP2000%20API-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Navisworks API](https://img.shields.io/badge/Navisworks%20API-167FFB?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ## You can reach me here
