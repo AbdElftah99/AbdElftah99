@@ -7,7 +7,7 @@ I’m AbdElftah Tarek <img src="https://github.com/TheDudeThatCode/TheDudeThatCo
 
 ## 💫 About Me:
 
-- 🌱 I'm currently learning to become a Full Stack developer using .NET technologies such as (MVC, Web API, etc)
+- 🌱 I'm currently learning to become a Full Stack developer using .NET technologies such as (MVC, Web API)
 - - 👀 I’m interested in AEC Software Development and DATA Analysis
 - 🔭 I have learned BIM Software Development at the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
 
