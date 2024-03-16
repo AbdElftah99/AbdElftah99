@@ -2,7 +2,7 @@
 
 I’m AbdElftah Tarek <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25"></img>
 
-<p>Passionate BIM Software developer/p>
+<p>Passionate BIM Software developer</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdElftah99&label=Profile%20views&color=0e75b6&style=flat" alt="0x70ssAM"/> </p>
 
 ## 💫 About Me:
