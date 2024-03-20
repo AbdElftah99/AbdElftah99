@@ -2,14 +2,14 @@
 
 I’m AbdElftah Tarek <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25" height="25"></img>
 
-<p>Passionate BIM Software developer</p>
+<p>A Passionate BIM Software Developer</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdElftah99&label=Profile%20views&color=0e75b6&style=flat" alt="0x70ssAM"/> </p>
 
 ## 💫 About Me:
 
-- 🌱 I'm currently learning to become a Full Stack developer using .NET technologies such as (MVC, Web API)
-- - 👀 I’m interested in AEC Software Development and DATA Analysis
-- 🔭 I have learned BIM Software Development at the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
+-  I'm currently learning to become a Full Stack developer using .NET technologies such as (MVC, Web API) and Angular 
+-  I’m interested in AEC Software Development and DATA Analytics 
+-  I have learned BIM Software Development at the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
 
 ## 🔭 Languages and Tools:
 
